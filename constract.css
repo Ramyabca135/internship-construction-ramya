@@ -1,0 +1,166 @@
+.nav-link
+    {
+       	color: black;
+       	font-size:12px;
+       	font-family:sans-serif;
+       	font-weight:600;
+     }
+     .nav ul li 
+     {
+     	font-size: 30px;
+     	font-family: times new roman;
+     }
+.fa-envelope-o
+        {
+          font-size:15px;
+        }
+/*------------------------------ Welcome icon---------------------*/
+        .fa-sharp
+        {
+          background-color: orange;
+          color: white;
+          font-size:50px;
+          
+        }
+        .fa-solid
+        {
+          background-color: orange;
+          color: white;
+          font-size:45px;
+        }
+        .fa-screwdriver-wrench
+        {
+          font-size:15px;
+          color:white;
+          background-color:#0d252b;
+          vertical-align: middle;
+
+        }
+
+        .banner
+        {
+          background-color: black;
+          
+        }
+        .bgcolor 
+        {
+           background-image:url('project/build.jpeg');          
+         background-repeat:no-repeat;
+          height: 200px;
+          background-size: cover;
+          opacity:0.7;
+          text-align: center;
+          padding-top:70px;
+          font-weight: 900px;
+        }
+
+        .fa-compass-drafting
+        {
+          font-size:40px;
+          color: orange;
+          background-color:white;
+        }
+        .fa-compass-drafting
+        {
+          padding-top: 5PX;
+        }
+.ig img 
+{
+	background-size: cover;
+}
+.color
+{
+	background-color:#0d252b;
+	color: white;
+}
+.color h4
+{
+color:white;
+padding-bottom: 2px;
+}
+.color p
+{
+	color:#99A9A8;
+}
+.color ul li 
+{
+	list-style-type: none;
+}
+.foot
+{
+	background-color:#0d252b;
+	border-top:1px solid #2B3439;
+	padding: 3px;
+
+}
+.foot p 
+{
+	padding-left: 700px;
+}
+
+.pic
+{
+	background-image:url('project/laptop.jpg');
+	width:100%;
+	height:700px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.pic h1
+{
+	text-align: center;
+	
+	font-size:35px;
+	color: white;
+	font-weight: 900px;
+}
+.pic p 
+{
+	text-align: center;
+	color: white;
+	font-size: 20px;
+  
+}
+.top 
+{
+	text-align: center;
+	padding-top:200px;
+
+}
+.fom 
+{
+	padding-left: 400px;
+	background-image:url(project/picbg.png);
+	justify-items: center;
+	}
+.fom h2
+{
+	padding-left: 150px;
+	padding-top: 20px;
+	color: white;
+}
+label
+{
+	color: white;
+}
+input
+{
+	justify-align:center;
+}
+input[type=text]
+{
+	width: 50%;
+
+}
+input[type=password]
+{
+	width: 50%;
+}
+.area 
+{
+	width: 50%;
+}
+select 
+{
+	width: 40%;
+}
